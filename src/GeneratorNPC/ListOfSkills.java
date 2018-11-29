@@ -1,0 +1,53 @@
+
+package GeneratorNPC;
+
+public class ListOfSkills {
+    public static String brzuchomowstwo = "Brzuchomóstwo";
+    public static String charakteryzacja = "Charakteryzacja";
+    public static String czytanieIPisanie = "Czytanie i pisanie";
+    public static String czytanieZWarg = "Czytanie z warg";
+    public static String dowodzenie = "Dowodzenie";
+    public static String gadanina = "Gadanina";
+    public static String hazard = "Hazard";
+    public static String hipnoza = "Hipnoza";
+    public static String jezdziectwo = "Jeździectwo";
+    public static String jezykTajemny = "Język tajemny";
+    public static String kuglarstwo = "Kuglarstwo";
+    public static String leczenie = "Leczenie";
+    public static String mocnaGlowa = "Mocna głowa";
+    public static String nauka = "Nauka";
+    public static String nawigacja = "Nawigacja";
+    public static String opiekaNadZwierzetami = "Opieka nad zwierzętami";
+    public static String oswajanie = "Oswajanie";
+    public static String otwieranieZamkow = "Otwieranie zamków";
+    public static String plotkowanie = "Plotkowanie";
+    public static String plywanie = "Pływanie";
+    public static String powozenie = "Powożenie";
+    public static String przekonywanie = "Przekonywanie";
+    public static String przeszukiwanie = "Przeszukiwanie";
+    public static String rzemioslo = "Rzemiosło";
+    public static String sekretneZnaki = "Sekretne znaki";
+    public static String sekretnyJezyk = "Sekretny język";
+    public static String skradanieSie = "Skradanie się";
+    public static String splatanieMagii = "Splatanie magii";
+    public static String spostrzegawczosc = "Spostrzegawczość";
+    public static String stukaPrzetrwania = "Sztuka przetrwania";
+    public static String sledzenie = "Śledzenie";
+    public static String targowanie = "Targowanie";
+    public static String torturowanie = "Torturowanie";
+    public static String tresura = "Tresura";
+    public static String tropienie = "Tropienie";
+    public static String ukrywanieSie = "Ukrywanie się";
+    public static String unik = "Unik";
+    public static String warzenieTrucizn = "Warzenie trucizn";
+    public static String wiedza = "Wiedza";
+    public static String wioslarstwo = "Wioślarstwo";
+    public static String wspinaczka = "Wspinaczka";
+    public static String wycena = "Wycena";
+    public static String wykrywanieMagii = "Wykrywanie magii";
+    public static String zastawianiePulapek = "Zastawianie pułapek";
+    public static String zastraszanie = "Zastraszanie";
+    public static String znajomoscJezyka = "Znajomość języka";
+    public static String zwinnePalce = "Zwinne palce";
+    public static String zeglarstwo = "Żeglarstwo";
+}
